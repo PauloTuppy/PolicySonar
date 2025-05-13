@@ -1,0 +1,2 @@
+# Only standard library packages can be used in WebContainer
+# This file is for documentation purposes only
